@@ -12,7 +12,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany-community-pavlish</groupId>
     <artifactId>boot-community-demo</artifactId>
-    <version>1.0.2-PAVLISH-SNAPSHOT</version>
+    <version>1.0.0-PAVLISH-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Broadleaf Spring Boot Community Demo</name>
 
