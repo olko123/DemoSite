@@ -50,7 +50,12 @@
         </dependency>
         <dependency>
             <groupId>com.broadleafcommerce</groupId>
-            <artifactId>broadleaf-boot-starter-hsql-database</artifactId>
+            <artifactId>broadleaf-boot-starter-database</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.26</version>
         </dependency>
         <dependency>
             <groupId>org.broadleafcommerce</groupId>
